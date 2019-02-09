@@ -12,7 +12,7 @@ $ npm start
 ```
 ## Start mongo
 ```
-mongod
+$ mongod
 ```
 
 ## License
