@@ -10,6 +10,10 @@ $ npm install
 ```sh
 $ npm start
 ```
+## Start mongo
+```
+mongod
+```
 
 ## License
 Copyright © Ed Mamerto.
