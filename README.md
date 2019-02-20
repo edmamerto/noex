@@ -17,7 +17,9 @@ $ mongod
 
 ## TODO
 ```
-convert to typescript
+- convert to typescript
+- add docker
+- add make
 ```
 
 ## License
