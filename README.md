@@ -20,6 +20,7 @@ $ mongod
 - convert to typescript
 - add docker
 - add make
+- add build
 ```
 
 ## License
